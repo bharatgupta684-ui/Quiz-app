@@ -11,7 +11,7 @@ const QuizRes =()=>{
 
   return(
     <>
-      {/* <div className="container mt-5">
+      <div className="container mt-5">
   <div className="card shadow-lg mx-auto" style={{ maxWidth: "500px" }}>
     <div className="card-header bg-primary text-white text-center">
       <h3 className="mb-0">Result</h3>
@@ -42,19 +42,7 @@ const QuizRes =()=>{
       </div>
     </div>
   </div>
-</div> */}
-
-
- <div>
-      <h3>Result</h3>
-       <p>Difficulty: {deff}</p>
-       <p>Total Questions:{ques}</p>
-       <p>Right Answers:{rig}</p>
-       <p>Wrong Answers:{ques-rig}</p>
-       <p>Percentage: {(rig / ques)*100 } %</p>
-       <button onClick={()=>{nav("/")}}>Play Again</button>
-       <button onClick={()=>{nav("/review")}}>Review</button>
- </div>
+</div>
 
     </>
   )

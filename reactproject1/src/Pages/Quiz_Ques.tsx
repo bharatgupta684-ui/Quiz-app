@@ -155,19 +155,4 @@ const QuizQuse =()=>{
   )
 }
 export default QuizQuse
-      //  <div>
-      //     <h3>Quiz Page</h3>
-      //     {
-      //       (details.length > 0)? details.map((v:any,i:number)=>{
-      //         return <div> Q{i+1}. {v.question} 
-      //           {
-      //             v.shuffled.map((ans:any)=>{
-      //               return <div><input type="radio" name= {`qa${i}`} value={ans} onChange={selectData} />{ans}</div>
-      //             })
-      //           }
-      //        <hr /> </div>
-      //       }): <div>Loading....!</div>
-
-      //     }
-      //     <button onClick={check}>Submit</button>
-      //  </div>
+   
