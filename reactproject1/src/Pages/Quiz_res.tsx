@@ -14,7 +14,7 @@ const QuizRes =()=>{
       <div className="container mt-5">
   <div className="card shadow-lg mx-auto" style={{ maxWidth: "500px" }}>
     <div className="card-header bg-primary text-white text-center">
-      <h3 className="mb-0">Result</h3>
+      <h3 className="mb-0">Score</h3>
     </div>
 
     <div className="card-body">

@@ -94,7 +94,7 @@ const QuizQuse =()=>{
        <div className="container py-5">
   <div className="card shadow-lg border-0 rounded-4">
     <div className="card-header bg-primary text-white text-center py-3 rounded-top-4">
-      <h3 className="mb-0 fw-bold">Quiz Page</h3>
+      <h3 className="mb-0 fw-bold">Questions Page</h3>
     </div>
 
     <div className="card-body p-4">

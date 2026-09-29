@@ -30,7 +30,7 @@ const QuizSetup =()=>{
       <div className="card shadow p-4" style={{ maxWidth: "500px", width: "100%" }}>
         
         <h3 className="text-center text-primary mb-4">
-          Quiz Setup Page
+          Home Page
         </h3>
 
         {/* Category */}
